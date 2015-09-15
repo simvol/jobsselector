@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="myApp" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Jobs Selection</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/main.css">
+  <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>-->
+
+
+	<script src="jquery.min.js"></script>
+
+    <!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="bootstrap.min.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="bootstrap-theme.min.css">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="bootstrap.min.js"></script>
+  	<link rel="stylesheet" href="app.css">
+</head>
+<body ng-cloak>
+
+
+
+
+
+<!-- MY APP -->
+	<h1 class='text-center text-uppercase'> Find your destiny. Now. </h1>
+
+	<!-- Main container with the game  -->
+	<div id="container">
+		<h1 id="x">x</h1>
+		<!-- row contains two divs with image and description of a job
+		clicking on each (wheather job1 or job2) will save this choice and 
+		move to the next jobs-->
+		<div class="row" ng-controller="gameCtrl" >
+		<span>Jobs in this round: {{jobsLeft}} </span>	
+
+				<!-- TODO hover staff -->
+
+			<div id="job1" class="col-xs-3 col-xs-offset-2 well"
+				ng-click="sendChoice(0)" > 
+
+					<h2 class="text-center">{{fjob.title}}</h2>
+					<img class="img-responsive" src="{{url}}{{fjob.img}}" alt="<Image of a worker of related occupation>">
+					<br>
+					<span>{{fjob.snippet}}</span>
+			</div>
+
+			<div id="job2" class="col-xs-3 col-xs-offset-2 well"
+				ng-click="sendChoice(1)"> 
+
+					<h2 class="text-center">{{sjob.title}}</h2>
+					<img class="img-responsive" src="{{url}}{{sjob.img}}" alt="<Image of a worker of related occupation>">
+					<br>
+					<span>{{sjob.snippet}}</span>
+			</div>
+
+		</div><!-- row -->
+	</div> <!-- container -->
+<!-- /MY APP -->
+
+
+
+
+
+ <!--  <ul class="menu">
+    <li><a href="#/view1">view1</a></li>
+    <li><a href="#/view2">view2</a></li>
+  </ul> -->
+
+  <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+  <![endif]-->
+
+  <!-- <div ng-view></div> -->
+
+  <!-- <div>Angular seed app: v<span app-version></span></div> -->
+
+  <!-- In production use:
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
+  -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular-route.js"></script> 
+  <script src="app.js"></script>
+  <script src="jobFactory.js"></script>
+  <!--<script src="view1/view1.js"></script>
+  <script src="view2/view2.js"></script>
+   <script src="components/version/version.js"></script>
+  <script src="components/version/version-directive.js"></script>
+  <script src="components/version/interpolate-filter.js"></script> -->
+</body>
+</html>

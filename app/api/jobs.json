@@ -1,0 +1,147 @@
+[
+	{
+		"title": "Web Developer",
+		"img": "img/programmer.jpg",
+		"snippet": "Web developers are responsible for the sleek fonts and clean layout you love on your favorite websites. The Labor Department considers this one of the fastest-growing jobs this decade, and it predicts employment will swell by about 20 percent by 2022."
+	},{
+		"title": "Fitness Instructor",
+		"img": "img/gyminstructor.jpg",
+		"snippet": "Fitness instructor helps people to work out and get in shape."
+	},{
+		"title": "Construction Worker",
+		"img": "img/construction.jpg",
+		"snippet": "Construction workers work on all construction sites, doing a wide range of tasks from the very easy to the extremely difficult and hazardous. Although many of the tasks they do require some training and experience, most jobs usually require little skill and can be learned quickly."
+	},{
+		"title": "Philologist",
+		"img": "img/philologist.jpeg",
+		"snippet": "Philology is the study of language in written historical sources; it is a combination of literary criticism, history, and linguistics. It is more commonly defined as the study of literary texts and written records, the establishment of their authenticity and their original form, and the determination of their meaning."
+	},{
+		"title": "Gamer",
+		"img": "img/gamer.jpg",
+		"snippet": "Wasting life lol"
+	},{
+		"title": "Police",
+		"img": "img/police.jpg",
+		"snippet": "A police force is a constituted body of persons empowered by the state to enforce the law, protect property, and limit civil disorder. Their powers include the legitimized use of force. "
+	},{
+		"title": "Firefighters",
+		"img": "img/firefighter.jpg",
+		"snippet": "A person whose job is to extinguish fires."
+	},{
+		"title": "Dentist",
+		"img": "img/dentist.jpg",
+		"snippet": "A dentist, also known as a dental surgeon, is a doctor who specializes in the diagnosis, prevention, and treatment of diseases and conditions of the oral cavity. The dentist's supporting team aids in providing oral health services"
+	},{
+		"title": "Nurse Practitioner",
+		"img": "img/nurse.jpg",
+		"snippet": "Nursing is a profession within the health care sector focused on the care of individuals, families, and communities so they may attain, maintain, or recover "
+	},{
+		"title": "Software Developer",
+		"img": "img/software.jpg",
+		"snippet": " software developer is a person concerned with facets of the software development process. In short, developers \"make software for the world to use.\" Their work includes researching, designing, implementing, and testing software."
+	},{
+		"title": "Physical Therapist",
+		"img": "img/physician.jpg",
+		"snippet": "A physician is a professional who practices medicine, which is concerned with promoting, maintaining or restoring human health through the study, diagnosis, and treatment of disease, injury, and other physical and mental impairments."
+	},{
+		"title": "Information Security Analyst",
+		"img": "img/isecurity.jpg",
+		"snippet": "These professionals monitor company networks for security threats, and they often implement security standards and install data protection systems as well. Information security analysts have extensive knowledge of major operating systems and network security software. "
+	},{
+		"title": "Marketing Manager",
+		"img": "img/marketing.jpg",
+		"snippet": "Marketing is about communicating the value of a product, service or brand to customers or consumers for the purpose of promoting or selling that product, service, or brand."
+	},{
+		"title": "Accountant",
+		"img": "img/accountant.jpg",
+		"snippet": "An accountant is a practitioner of accounting or accountancy, which is the measurement, disclosure or provision of assurance about financial information that helps managers, investors, tax authorities and others make decisions about allocating resources."
+	},{
+		"title": "Engineer",
+		"img": "img/engineer.jpg",
+		"snippet": "An engineer is a professional practitioner of engineering, concerned with applying scientific knowledge, mathematics, and ingenuity to develop solutions for technical, societal and commercial problems."
+	},{
+		"title": "Cost Estimator",
+		"img": "img/costEstimator.jpg",
+		"snippet": "Cost estimators collect and analyze data in order to estimate the time, money, materials, and labor required to manufacture a product, construct a building, or provide a service. They generally specialize in a particular industry or type of product."
+	},{
+		"title": "Cosmetologist",
+		"img": "img/cosmetologist.PNG",
+		"snippet": "A cosmetologist is someone who is an expert in the care of hair and makeup as well as skincare and beauty products. They can also offer other services such as coloring, extensions, and straightening. Cosmetologists help their clients improve on or acquire a certain look by applying advance trending aesthetic applications to persons such as career goaled or undergoing stress that may hinder a favorable inner & exterior self-image."
+	},{
+		"title": "Logistician",
+		"img": "img/logistician.jpg",
+		"snippet": "Logisticians analyze and coordinate an organization's supply chain—the system that moves a product from supplier to consumer. They manage the entire life cycle of a product, which includes how a product is acquired, distributed, allocated, and delivered."
+	},{
+		"title": "Dietitian",
+		"img": "img/dietician.jpg",
+		"snippet": "A dietitian (or dietician) is an expert in dietetics; that is, human nutrition and the regulation of diet. A dietitian advises people on what to eat in order to lead a healthy lifestyle or to achieve a specific health-related goal"
+	},{
+		"title": "Lawyer",
+		"img": "img/lawyer.jpeg",
+		"snippet": "A lawyer is a person who practices law, as a barrister, judge, attorney, counsel (counselor at law) or solicitor."
+	},{
+		"title": "Veterinarian",
+		"img": "img/Veterinarian.jpg",
+		"snippet": "A doctor that take care of animals' health."
+	},{
+		"title": "Massage Therapist",
+		"img": "img/massage.jpg",
+		"snippet": "Massage involves working and acting on the body with pressure – structured, unstructured, stationary, or moving – tension, motion, or vibration, done manually or with mechanical aids. Massage can be applied with the hands, fingers, elbows, knees, forearm, feet, or a massage device."
+	},{
+		"title": "Hairdresser",
+		"img": "img/hair.jpg",
+		"snippet": "A hairdresser is a person whose occupation is to cut or style hair in order to change or maintain a person's image. "
+	},{
+		"title": "Real Estate Agent",
+		"img": "img/realestate.jpg",
+		"snippet": "real estate agent is a person who acts as an intermediary between sellers and buyers of real estate/real property and attempts to find sellers who wish to sell and buyers who wish to buy."
+	},{
+		"title": "Architect",
+		"img": "img/architect.jpg",
+		"snippet": "An architect is a person who plans, designs, and oversees the construction of buildings. To practice architecture means to provide services in connection with the design and construction of buildings and the space within the site surrounding the buildings, that have as their principal purpose human occupancy or use."
+	},{
+		"title": "Surgical Technologist",
+		"img": "img/surgical-tech-schools.jpg",
+		"snippet": "Surgical technologists are members of operating room teams, which include the surgeon(s), anesthesiologist and circulating nurse."
+	},{
+		"title": "Auto Mechanic",
+		"img": "img/mechanic.jpg",
+		"snippet": "Auto Mechanic is a mechanic with a variety of automobile makes or either in a specific area or in a specific make of automobile. In repairing cars, their main role is to diagnose the problem accurately and quickly. "
+	},{
+		"title": "Teacher",
+		"img": "img/teacher.jpeg",
+		"snippet": "A teacher is a person who provides education for students."
+	},{
+		"title": "Interpreter and Translator",
+		"img": "img/translator.jpg",
+		"snippet": "While an interpreter converts any spoken material from one language (the source language) into a different language (the target language), a translator converts written material in the same manner."
+	},{
+		"title": "Security Guard",
+		"img": "img/security.jpg",
+		"snippet": "A security officer (or security guard) is a person who is paid to protect property, assets, or people. They are usually privately and mostly comprised with civilian personnel."
+	},{
+		"title": "Taxi Driver and Chauffeur",
+		"img": "img/taxi.jpg",
+		"snippet": "A chauffeur is a person employed to drive a passenger motor vehicle"
+	},{
+		"title": "Paramedic",
+		"img": "img/paramedic.jpg",
+		"snippet": "A paramedic is a healthcare professional, predominantly in the pre-hospital and out-of-hospital environment, and working mainly as part of emergency medical services (EMS), such as on an ambulance."
+	},{
+		"title": "Receptionist",
+		"img": "img/receptionist.jpg",
+		"snippet": "A receptionist is an employee taking an office/administrative support position. The work is usually performed in a waiting area such as a lobby or front office desk."
+	},{
+		"title": "Designer",
+		"img": "img/designer.jpg",
+		"snippet": "Designer is a person who decide on how the object looks and feels"
+	},{
+		"title": "Artist",
+		"img": "img/artist.jpg",
+		"snippet": "An artist is a person engaged in one or more of any of a broad spectrum of activities related to creating art, practicing the arts, and/or demonstrating an art. The common usage in both everyday speech and academic discourse is a practitioner in the visual arts only."
+	},{
+		"title": "Athlet",
+		"img": "img/athlete.jpg",
+		"snippet": "One who participates in physical exercise or sports, especially in competitive events."
+	}
+]

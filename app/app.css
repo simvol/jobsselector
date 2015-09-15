@@ -1,0 +1,85 @@
+/* app css stylesheet */
+/*
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.menu > li:nth-child(1):before {
+  content: "";
+  padding: 0;
+}
+
+*/
+
+
+html,body { height:100%; }
+
+/*
+TODO overflow hidden hides big long divs and we can't scroll to see them
+*/
+body{
+  /*background-color: #3399ff;*/
+  background: linear-gradient(#3399ff 50%, white 100%);
+  overflow: hidden;
+}
+
+h1{
+  color: white;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.9);
+}
+
+/*jobs */
+[id^="job"] {
+    margin-top: 20px;
+    background: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 0 0px 3px 1px rgba(0,0,0,.5);
+    transition: all 0.3s ease 0s;
+    transform-style: preserve-3d;
+
+
+}
+
+[id^="job"]:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+
+}
+
+/*x sign between jobs*/
+#x{
+  position: absolute;
+  left:49%;
+  font-size: 5em;
+  color: yellow;
+  text-shadow: 0px 1px 1px rgba(255,255,255,.9);
+}
+
+span{
+  padding:10px;
+}
+
+img{
+  max-height: 70%;
+}
